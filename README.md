@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Anjali22code/My-DSA/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/Anjali22code/My-DSA/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/Anjali22code/My-DSA/tree/master/1672-richest-customer-wealth) |
 ## Sorting
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Anjali22code/My-DSA/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Anjali22code/My-DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
