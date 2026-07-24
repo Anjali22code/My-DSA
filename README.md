@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anjali22code/My-DSA/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/Anjali22code/My-DSA/tree/master/0135-candy) |
 | [0283-move-zeroes](https://github.com/Anjali22code/My-DSA/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/Anjali22code/My-DSA/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/Anjali22code/My-DSA/tree/master/1672-richest-customer-wealth) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Anjali22code/My-DSA/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Anjali22code/My-DSA/tree/master/0709-to-lower-case) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Anjali22code/My-DSA/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
