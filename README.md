@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anjali22code/My-DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Anjali22code/My-DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Anjali22code/My-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anjali22code/My-DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Anjali22code/My-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Anjali22code/My-DSA/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Anjali22code/My-DSA/tree/master/0709-to-lower-case) |
 ## Greedy
