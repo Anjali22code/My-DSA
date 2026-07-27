@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anjali22code/My-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Anjali22code/My-DSA/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/Anjali22code/My-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Anjali22code/My-DSA/tree/master/0709-to-lower-case) |
 ## Greedy
 |  |
