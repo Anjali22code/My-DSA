@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anjali22code/My-DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Anjali22code/My-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Anjali22code/My-DSA/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Anjali22code/My-DSA/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/Anjali22code/My-DSA/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Anjali22code/My-DSA/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Anjali22code/My-DSA/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
