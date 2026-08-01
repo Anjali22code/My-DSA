@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anjali22code/My-DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Anjali22code/My-DSA/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Anjali22code/My-DSA/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Anjali22code/My-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anjali22code/My-DSA/tree/master/0283-move-zeroes) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anjali22code/My-DSA/tree/master/0088-merge-sorted-array) |
 | [1051-height-checker](https://github.com/Anjali22code/My-DSA/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anjali22code/My-DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Anjali22code/My-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anjali22code/My-DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Anjali22code/My-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anjali22code/My-DSA/tree/master/0344-reverse-string) |
