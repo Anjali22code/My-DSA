@@ -84,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Anjali22code/My-DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Anjali22code/My-DSA/tree/master/0771-jewels-and-stones) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Anjali22code/My-DSA/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Anjali22code/My-DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
