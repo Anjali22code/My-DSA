@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Anjali22code/My-DSA/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/Anjali22code/My-DSA/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,8 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Anjali22code/My-DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjali22code/My-DSA/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Anjali22code/My-DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjali22code/My-DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
