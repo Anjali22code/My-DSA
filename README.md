@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Anjali22code/My-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anjali22code/My-DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anjali22code/My-DSA/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Anjali22code/My-DSA/tree/master/0485-max-consecutive-ones) |
 | [1051-height-checker](https://github.com/Anjali22code/My-DSA/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Anjali22code/My-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Anjali22code/My-DSA/tree/master/1672-richest-customer-wealth) |
